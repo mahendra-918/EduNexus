@@ -1,5 +1,7 @@
 # EduNexus - A Mini Learning Management System (LMS)
 
+gitLink = https://github.com/mahendra-918/EduNexus
+
 EduNexus is a full-stack MERN application built as a mini-LMS. It allows instructors to create courses and add assignments, while students can enroll in those courses, submit their work, and communicate in a real-time chat.
 
 ## 🚀 Core Features Implemented
