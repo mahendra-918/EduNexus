@@ -1,0 +1,15 @@
+# Node.js
+node_modules
+npm-debug.log
+.env
+.env.*
+
+# Client (Vite)
+/client/dist
+/client/node_modules
+
+# Server
+/server/node_modules
+
+# macOS
+.DS_Store
